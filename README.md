@@ -2,7 +2,7 @@ Taller de Ciberseguridad Ofensiva
 
 > **Material oficial del curso práctico dictado en la Facultad de Informática de la Universidad Nacional de La Plata (UNLP), organizado en colaboración con el Club de Programación.**
 
-[![UNLP](https://img.shields.io/badge/UNLP-Facultad%20de%20Inform%C3%A1tica-0055a0?style=flat-square&logo=university&logoColor=white)](https://www.info.unlp.edu.ar/) [![Club de Programación](https://img.shields.io/badge/Comunidad-Club%20de%20Programaci%C3%B3n-7b16ff?style=flat-square&logo=discord&logoColor=white)](https://linktr.ee/clubdeprogramacion) [![YouTube Qb1t](https://img.shields.io/badge/YouTube-Canal%20Oficial-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Qb1t) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=opensource&logoColor=white)](https://opensource.org/licenses/MIT)
+[![UNLP](https://img.shields.io/badge/UNLP-Facultad%20de%20Inform%C3%A1tica-0055a0?style=flat-square&logo=university&logoColor=white)](https://www.info.unlp.edu.ar/) [![Club de Programación](https://img.shields.io/badge/Comunidad-Club%20de%20Programaci%C3%B3n-7b16ff?style=flat-square&logo=discord&logoColor=white)](https://www.youtube.com/@ClubDeProgramacionUNLP/videos) [![YouTube Qb1t](https://img.shields.io/badge/YouTube-Canal%20Oficial-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Qb1t) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=opensource&logoColor=white)](https://opensource.org/licenses/MIT)
 
 ---
 
